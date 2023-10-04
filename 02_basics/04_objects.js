@@ -28,6 +28,7 @@ console.log(regularUser.fullName.userFullname.firstname)// using this we can acc
 
 // we can combine also object like array as follow
 
+
 const obj1={1:"a", 2:"b"}
 const obj2={3:"a", 4:"b"}
 
